@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./historiaeruthen00stargoog/historiaeruthen00stargoog_0234.png"; bbox 0 0 3742 5626; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 807 1840 1052 1959">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 807 1840 1052 1959">
+     <span class='ocr_line' id='line_1_1' title="bbox 807 1840 1052 1959; baseline 0.004 -2"><span class='ocrx_word' id='word_1_1' title='bbox 807 1840 1052 1959; x_wconf 80' lang='lat' dir='ltr'><strong>vul.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 212 2216 1579 2425">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 212 2216 1579 2425">
+     <span class='ocr_line' id='line_1_2' title="bbox 212 2216 1579 2425; baseline 0.004 -5"><span class='ocrx_word' id='word_1_2' title='bbox 212 2217 757 2423; x_wconf 76' lang='lat' dir='ltr'>Mfflffls</span> <span class='ocrx_word' id='word_1_3' title='bbox 848 2216 1579 2425; x_wconf 59' lang='lat' dir='ltr'><strong>Annonam</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 700 2742 1152 2882">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 700 2742 1152 2882">
+     <span class='ocr_line' id='line_1_3' title="bbox 700 2742 1152 2882; baseline 0.004 -4"><span class='ocrx_word' id='word_1_4' title='bbox 700 2742 784 2879; x_wconf 68' lang='lat' dir='ltr'><strong>1)ss</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 823 2745 1152 2882; x_wconf 61' lang='lat' dir='ltr'><strong>MCMVIA„</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1876 5626">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1876 5626">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1876 5626; baseline 0 0"><span class='ocrx_word' id='word_1_6' title='bbox 0 0 1876 5626; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

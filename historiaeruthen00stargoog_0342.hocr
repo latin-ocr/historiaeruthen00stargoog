@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./historiaeruthen00stargoog/historiaeruthen00stargoog_0342.png"; bbox 0 0 3742 5626; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 741 1603 994 1722">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 741 1603 994 1722">
+     <span class='ocr_line' id='line_1_1' title="bbox 741 1603 994 1722; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 741 1603 994 1722; x_wconf 81' lang='lat' dir='ltr'><strong>xm.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 168 2022 1557 2224">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 168 2022 1557 2224">
+     <span class='ocr_line' id='line_1_2' title="bbox 168 2022 1557 2224; baseline 0.001 -7"><span class='ocrx_word' id='word_1_2' title='bbox 168 2025 844 2221; x_wconf 81' lang='lat' dir='ltr'><strong>DANIELIS</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 914 2022 1557 2224; x_wconf 82' lang='lat' dir='ltr'>BUOHAVI</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 392 2486 1340 2674">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 392 2486 1340 2674">
+     <span class='ocr_line' id='line_1_3' title="bbox 392 2486 1340 2674; baseline 0 -6"><span class='ocrx_word' id='word_1_4' title='bbox 392 2531 628 2668; x_wconf 64' lang='lat' dir='ltr'><strong>mam</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 670 2486 1093 2674; x_wconf 69' lang='lat' dir='ltr'><strong>Moscomss</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1134 2531 1340 2668; x_wconf 62' lang='lat' dir='ltr'><strong>muns</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 525 2966 1221 3101">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 525 2966 1221 3101">
+     <span class='ocr_line' id='line_1_4' title="bbox 525 2966 1221 3101; baseline 0.001 -8"><span class='ocrx_word' id='word_1_7' title='bbox 525 2966 1221 3101; x_wconf 76' lang='lat' dir='ltr'><strong>GENEALOGIA.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 1876 5626">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 1876 5626">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1876 5626; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 0 0 1876 5626; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

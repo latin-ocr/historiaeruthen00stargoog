@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./historiaeruthen00stargoog_0132.png"; bbox 0 0 3742 5626; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 791 1892 1273 2054">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 791 1892 1273 2054">
+     <span class='ocr_line' id='line_1_1' title="bbox 791 1892 1273 2054; baseline 0 -147"><span class='ocrx_word' id='word_1_1' title='bbox 791 1926 973 2054; x_wconf 37' lang='lat' dir='ltr'><strong>m·</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1263 1892 1273 1907; x_wconf 88' lang='lat'>.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 139 2296 1388 2513">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 139 2296 1388 2513">
+     <span class='ocr_line' id='line_1_2' title="bbox 139 2296 1388 2513; baseline 0.017 -24"><span class='ocrx_word' id='word_1_3' title='bbox 139 2484 142 2489; x_wconf 82' lang='grc'>,</span> <span class='ocrx_word' id='word_1_4' title='bbox 374 2296 901 2513; x_wconf 71' lang='lat' dir='ltr'>JMNle</span> <span class='ocrx_word' id='word_1_5' title='bbox 1016 2300 1388 2513; x_wconf 74' lang='lat' dir='ltr'><strong>mm</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 281 2992 1489 3137">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 281 2992 1489 3137">
+     <span class='ocr_line' id='line_1_3' title="bbox 281 2992 1489 3137; baseline -0.004 -8"><span class='ocrx_word' id='word_1_6' title='bbox 281 2994 1000 3137; x_wconf 72' lang='lat' dir='ltr'><strong>MOSOOVI&#39;PARUM</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1086 2992 1489 3134; x_wconf 65' lang='lat' dir='ltr'><strong>amolo.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1876 5626">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1876 5626">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1876 5626; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 0 0 1876 5626; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
